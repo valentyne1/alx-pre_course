@@ -1,2 +1,2 @@
 My first readme. 
-ALX School is Awesome.
+This is my personal work.
